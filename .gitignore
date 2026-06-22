@@ -1,0 +1,20 @@
+# Frontend (Next.js)
+driving-school-management/node_modules/
+driving-school-management/.next/
+driving-school-management/out/
+driving-school-management/.env
+driving-school-management/.env.local
+
+# Backend (Python)
+driving-school-management-backend/.env
+driving-school-management-backend/.venv/
+driving-school-management-backend/__pycache__/
+driving-school-management-backend/*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
